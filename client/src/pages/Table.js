@@ -17,7 +17,7 @@ function createData(name, calories, fat, carbs, protein) {
 //   cr eateData("Eclair", 262, 16.0, 24, 6.0),
 //   createData("Cupcake", 305, 3.7, 67, 4.3),
 //   createData("Gingerbread", 356, 16.0, 49, 3.9),
-// ];
+// ];/////
 //sowsws
 export default function BasicTable(props) {
   const { rows } = props;
